@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<InZync>
+  <extensions>
+    <node name="Office">
+      <node name="Word" list="doc; docx; dot; txt; rtf;" />
+      <node name="Excel" list="xls; xlsx; xlt; xla; xlm; xlc; xlw; csv;" />
+      <node name="PowerPoint" list="ppt; pptx; pps; pot; ppa;" />
+      <node name="Visio" list="vsd; vsdx; vdx; vss; vsx; vst; vtx; vsw;" />
+    </node>
+    <node name="Development">
+      <node name="C/C++" list="c; h; cpp; hpp; c++; dsp; dsw; res; ico; rc; rc2; def;" />
+      <node name="VisualBasic" list="frm; frx; bas; cls; ctl; vbp; vbg;" />
+      <node name="C#" list="cs; resx; sln; suo; csproj; user;" />
+      <node name="Delphi" list="pas; dpr;" />
+    </node>
+    <node name="Media">
+      <node name="Audio" list="mp3; wma; ogg; wav; mid;" />
+      <node name="Video" list="mpg; mpeg; wmv; ogm; xvid; mp4; mkv; avi;" />
+      <node name="Images" list="gif; jpg; jpeg; png; bmp; tif; ico;" />
+    </node>
+  </extensions>
+</InZync>
