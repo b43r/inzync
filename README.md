@@ -10,3 +10,6 @@ Different actions can be configured for every situation. InZync can be used to b
 Files can be filtered by extension or file attributes. Synchronization jobs can be saved to a file that can be run by double-clicking.
 
 ## Command line switches
+
+/help   display all possible command line commands
+/job "filename"   Load the job from the given file
