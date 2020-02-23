@@ -12,6 +12,8 @@ Files can be filtered by extension or file attributes. Synchronization jobs can 
 ## Command line switches
 
 ```
-/help   display all possible command line commands
-/job "filename"   Load the job from the given file
+/help            display all possible command line commands
+/job "filename"  Load the job from the given file
+/run             immediately execute the job loaded with the /job parameter
+/silent          do not display any UI while running a job (use together with /job and /run)
 ```
