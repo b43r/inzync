@@ -1,7 +1,7 @@
 Version history:
 ----------------
 
-23.02.2020: Version 1.1.0
+23.02.2020: Version 2.0.0
 
 	- Renamed from eSync.NET to InZync.
 
