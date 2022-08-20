@@ -1,5 +1,5 @@
 # InZync
-Sophisticated Windows application for synchronizing fiiles and folders.
+Sophisticated Windows application for synchronizing files and folders. Requires .NET Framework 4.8.
 
 InZync let's you compare and synchronize the files in multiple directories:
 ![main window](https://github.com/b43r/inzync/blob/master/img/main.png "main window")
