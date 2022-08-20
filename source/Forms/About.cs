@@ -1,7 +1,7 @@
 /*
  * InZync
  * 
- * Copyright (C) 2020 by Simon Baer
+ * Copyright (C) 2022 by Simon Baer
  *
  * This program is free software; you can redistribute it and/or modify it under the terms
  * of the GNU General Public License as published by the Free Software Foundation; either
@@ -38,7 +38,7 @@ namespace InZync.Forms
             InitializeComponent();
 
             // set the label containing the program version
-            lblVersion.Text = $"Version: {Application.ProductVersion} (2020/01/10)";
+            lblVersion.Text = $"Version: {Application.ProductVersion} (2022-08-20)";
         }
 
         protected override void Dispose( bool disposing )
@@ -106,7 +106,7 @@ namespace InZync.Forms
             this.lblCredits.Name = "lblCredits";
             this.lblCredits.Size = new System.Drawing.Size(152, 23);
             this.lblCredits.TabIndex = 3;
-            this.lblCredits.Text = "(c) 2020 by Simon Baer,";
+            this.lblCredits.Text = "(c) 2022 by Simon Baer,";
             // 
             // lblVersion
             // 

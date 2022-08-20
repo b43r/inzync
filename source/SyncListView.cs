@@ -1,7 +1,7 @@
 /*
  * InZync
  * 
- * Copyright (C) 2020 by Simon Baer
+ * Copyright (C) 2022 by Simon Baer
  * 
  * Based on code by Eddie Velasquez. Get original source at:
  * https://www.codeproject.com/Articles/2163/ListViewSortManager-control

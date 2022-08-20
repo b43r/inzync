@@ -1,6 +1,11 @@
 Version history:
 ----------------
 
+20.08.2022: Version 2.1.0
+
+	- Updated to VS 2022 and .NET Framework 4.8
+
+
 23.02.2020: Version 2.0.0
 
 	- Renamed from eSync.NET to InZync.

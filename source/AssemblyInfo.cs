@@ -11,7 +11,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("(c) 2020 by Simon Baer")]
+[assembly: AssemblyCopyright("(c) 2022 by Simon Baer")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -25,7 +25,7 @@ using System.Runtime.CompilerServices;
 //
 // Sie können alle Werte oder die standardmäßige Revision und Buildnummer 
 // mit '*' angeben:
-[assembly: AssemblyVersion("2.0.0.*")]
+[assembly: AssemblyVersion("2.1.0.*")]
 
 //
 // Um die Assembly zu signieren, müssen Sie einen Schlüssel angeben. Weitere Informationen 

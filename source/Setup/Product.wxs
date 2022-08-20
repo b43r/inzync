@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
   <!-- product id must be changed whenever the version is changed -->
-	<Product Id="9BE2B40C-EA8C-4213-9381-52C165FAC4C4" Name="InZync" Language="1033" Version="2.0.0.0" Manufacturer="b34r" UpgradeCode="fe60241b-3238-42ed-8ea1-5c491c8f3f15">
+	<Product Id="4E9701BD-CD8E-4ED5-8846-AECB197B7913" Name="InZync" Language="1033" Version="2.1.0.0" Manufacturer="b34r" UpgradeCode="fe60241b-3238-42ed-8ea1-5c491c8f3f15">
 		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" Platform="x64" />
 
 		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
